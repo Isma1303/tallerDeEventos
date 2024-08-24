@@ -1,0 +1,17 @@
+C:\Users\Alejandro\Desktop\POO-semestre-II\TallerdeEventos\TallerdeEventos\bin\Debug\net8.0-windows\TallerdeEventos.exe
+C:\Users\Alejandro\Desktop\POO-semestre-II\TallerdeEventos\TallerdeEventos\bin\Debug\net8.0-windows\TallerdeEventos.deps.json
+C:\Users\Alejandro\Desktop\POO-semestre-II\TallerdeEventos\TallerdeEventos\bin\Debug\net8.0-windows\TallerdeEventos.runtimeconfig.json
+C:\Users\Alejandro\Desktop\POO-semestre-II\TallerdeEventos\TallerdeEventos\bin\Debug\net8.0-windows\TallerdeEventos.dll
+C:\Users\Alejandro\Desktop\POO-semestre-II\TallerdeEventos\TallerdeEventos\bin\Debug\net8.0-windows\TallerdeEventos.pdb
+C:\Users\Alejandro\Desktop\POO-semestre-II\TallerdeEventos\TallerdeEventos\obj\Debug\net8.0-windows\TallerdeEventos.Form1.resources
+C:\Users\Alejandro\Desktop\POO-semestre-II\TallerdeEventos\TallerdeEventos\obj\Debug\net8.0-windows\TallerdeEventos.csproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\POO-semestre-II\TallerdeEventos\TallerdeEventos\obj\Debug\net8.0-windows\TallerdeEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\POO-semestre-II\TallerdeEventos\TallerdeEventos\obj\Debug\net8.0-windows\TallerdeEventos.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\POO-semestre-II\TallerdeEventos\TallerdeEventos\obj\Debug\net8.0-windows\TallerdeEventos.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\POO-semestre-II\TallerdeEventos\TallerdeEventos\obj\Debug\net8.0-windows\TallerdeEventos.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\POO-semestre-II\TallerdeEventos\TallerdeEventos\obj\Debug\net8.0-windows\TallerdeEventos.sourcelink.json
+C:\Users\Alejandro\Desktop\POO-semestre-II\TallerdeEventos\TallerdeEventos\obj\Debug\net8.0-windows\TallerdeEventos.dll
+C:\Users\Alejandro\Desktop\POO-semestre-II\TallerdeEventos\TallerdeEventos\obj\Debug\net8.0-windows\refint\TallerdeEventos.dll
+C:\Users\Alejandro\Desktop\POO-semestre-II\TallerdeEventos\TallerdeEventos\obj\Debug\net8.0-windows\TallerdeEventos.pdb
+C:\Users\Alejandro\Desktop\POO-semestre-II\TallerdeEventos\TallerdeEventos\obj\Debug\net8.0-windows\TallerdeEventos.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\POO-semestre-II\TallerdeEventos\TallerdeEventos\obj\Debug\net8.0-windows\ref\TallerdeEventos.dll
